@@ -8,8 +8,9 @@ Leveraging the potential of remote sensing for planning, monitoring and evaluati
 
 ## Resources associated with the mapme-initiative website
 
-| Package          | Description                                                  | Resource | Link                                                 |
-| ---------------- | ------------------------------------------------------------ | -------- | ---------------------------------------------------- |
-| mapme.forest     | Tools to download and analyse Global Forest Watch datasets   | Tutorial | https://mapme-initiative.github.io/mapme.forest/     |
-| mapme.vegetation | Tools to download and extract zonal-statistics from Sentinel-2 time-series | Tutorial | https://mapme-initiative.github.io/mapme.vegetation/ |
-
+| Package               | Description                                                  	                | Resource 	        | Link                                                 	        |
+| --------------------- | ----------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------- |
+| mapme.forest          | Tools to download and analyse Global Forest Watch datasets   		        | Tutorial 	        | https://mapme-initiative.github.io/mapme.forest/     	        |
+| mapme.vegetation      | Tools to download and pre-process Sentinel-2 time-series 		        | Tutorial 	        | https://mapme-initiative.github.io/mapme.vegetation/ 	        |
+| mapme.classification  | Train and validate spatial classification and regression models	        | Tutorial 	        | https://mapme-initiative.github.io/mapme.classification/      |
+| mapme.agriculture     | Calculate agricultural productivity indices based on FAO's WaPOR datasets     | Tutorial 	        | https://mapme-initiative.github.io/mapme.agriculture/         |
