@@ -14,3 +14,5 @@ Leveraging the potential of remote sensing for planning, monitoring and evaluati
 | mapme.vegetation      | Tools to download and pre-process Sentinel-2 time-series 		        | Tutorial 	        | https://mapme-initiative.github.io/mapme.vegetation/ 	        |
 | mapme.classification  | Train and validate spatial classification and regression models	        | Tutorial 	        | https://mapme-initiative.github.io/mapme.classification/      |
 | mapme.agriculture     | Calculate agricultural productivity indices based on FAO's WaPOR datasets     | Tutorial 	        | https://mapme-initiative.github.io/mapme.agriculture/         |
+| mapme.osg | Open Source Guide to Earth Observation in Development Coperation | PDF | https://github.com/mapme-initiative/mapme.osg/raw/main/assets/MAPME_OpenSourceGuide_v0091.pdf |
+
