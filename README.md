@@ -10,6 +10,7 @@ Leveraging the potential of remote sensing for planning, monitoring and evaluati
 
 | Package               | Description                                                  	                | Resource 	        | Link                                                 	        |
 | --------------------- | ----------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------- |
+| mapme.biodiversity    | A toolkit to analyse a variety of spatial datasets                            | Tutorial              | https://mapme-initiative.github.io/mapme.biodiversity/        |
 | mapme.forest          | Tools to download and analyse Global Forest Watch datasets   		        | Tutorial 	        | https://mapme-initiative.github.io/mapme.forest/     	        |
 | mapme.vegetation      | Tools to download and pre-process Sentinel-2 time-series 		        | Tutorial 	        | https://mapme-initiative.github.io/mapme.vegetation/ 	        |
 | mapme.classification  | Train and validate spatial classification and regression models	        | Tutorial 	        | https://mapme-initiative.github.io/mapme.classification/      |
